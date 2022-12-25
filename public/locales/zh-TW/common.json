@@ -83,7 +83,7 @@
   "Oops, that's a <1>four-oh-four</1>.": "Oops，這裡是 <1>404</1> 頁面。",
   "Open URL": "開啟 URL",
   "Open URL{{url}}": "開啟 URL{{url}}",
-  "Press <2>F12</2> and open devtools for more details, or seek help at <6>onedrive-vercel-index discussions</6>.": "請按下 <2>F12</2> 開啟開發人員選項取得詳細資訊，或是前往 <6>onedrive-vercel-index Github 討論區</6> 尋找解答。",
+  "Press <2>F12</2> and open devtools for more details, or seek help at <6>onedrive-vercel-index discussions</6>.": " ",
   "Proceed to OAuth": "繼續進行 OAuth",
   "Requesting tokens": "正在取得 token",
   "Restart": "重新開始",
